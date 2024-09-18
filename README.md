@@ -3,9 +3,7 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
-    <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
-  </a>
+   <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
   <br />
 
   <div>
@@ -15,9 +13,6 @@
   </div>
 
   <h3 align="center">Modern UI/UX Website</h3>
-  <div align="center">
-    Build this project step-by-step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
-  </div>
 </div>
 
 ## 📋 Table of Contents
@@ -30,21 +25,9 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains code corresponding to an in-depth tutorial on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. Follow along to learn how to build projects like this in a beginner-friendly way!
-
-<a href="https://youtu.be/B91wc5dCEBA" target="_blank">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
-</a>
-
 ## 🤖 Introduction
 
-**Brainwave** is a modern UI/UX website developed using React.js and Tailwind CSS. Its sleek design and seamless animations serve as a benchmark for modern applications. If you encounter any issues, join our Discord community with over 27,000 members for assistance!
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" />
-</a>
+**Brainwave** is a modern UI/UX website developed using React.js and Tailwind CSS. Its sleek design and seamless animations serve as a benchmark for modern applications.
 
 ## ⚙️ Tech Stack
 
@@ -70,8 +53,8 @@ This repository contains code corresponding to an in-depth tutorial on our YouTu
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
-cd brainwave
+git clone https://github.com/Qusai007/Brainwave.git
+cd Brainwave
 ```
 
 ### Installation
@@ -135,19 +118,5 @@ export default {
 ```
 
 </details>
-
-## 🔗 Links
-
-- [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
-- [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
-- [Live Website](https://jsm-brainwave.com/)
-
-## 🚀 More
-
-**Advance your skills with the Next.js 14 Pro Course!** Explore our PRO courses for detailed explanations and exercises to boost your skills.
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-  <img src="https://..."/>
-</a>
 
 --- 
