@@ -29,6 +29,8 @@
 
 **Brainwave** is a modern UI/UX website developed using React.js and Tailwind CSS. Its sleek design and seamless animations serve as a benchmark for modern applications.
 
+You can view the live application [here](https://brainwave-pi-six.vercel.app/).
+
 ## ⚙️ Tech Stack
 
 - **Vite**
